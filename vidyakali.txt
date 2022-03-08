@@ -1,0 +1,4 @@
+hammad,125
+ali,30
+ahmed,20
+hamad,110
