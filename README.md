@@ -3,7 +3,7 @@
 
 
 ## Description
-The UET Lahore campus map will be used as a game map. The start point on game map is the admin block as the final point is the UET auditorium. Department becomes the weapon pick-up point. Mosque becomes the save area and canteen become energy to power up point. The playing grounds and roads becomes the war zone. The evil of university becomes the enemies. The map is divided into five-zone, the first zone with two enemies, the second zone with three enimies, the third zone with  six enemies and fouth zone siz enemies.The Mosque become the save zone. The Vidya is a character that is used for playing. Vidya faces different enemies for reaching the final point.
+The UET Lahore campus map is used as a game map. The start point on game map is the admin block as the final point is the UET auditorium. Department becomes the weapon pick-up point. Mosque becomes the save area and canteen become energy to power up point. The playing grounds and roads becomes the war zone. The evil of university becomes the enemies. The map is divided into five-zone, the first zone with two enemies, the second zone with three enimies, the third zone with  six enemies and fouth zone siz enemies.The Mosque become the save zone. The Vidya is a character that is used for playing. Vidya faces different enemies for reaching the final point.
 ## Story
 When the game starts the energy level of the vidya is 100% which reduce by its movement on the map. Vidya is a player who has three chances. He saw evils which move on the map and vidya fir on them and reduce the evil energy. The total three life of the evils. Constantly fir on the evil and reduce its energy continuously and at last he completed his mission and qualified for the second, third, and fourth level. Different weapon points help to earn more points.
 ## Characters Description
@@ -12,7 +12,7 @@ When the game starts the energy level of the vidya is 100% which reduce by its m
 -	Weapon (W) to earn more points.
 -	Food (F) to boost the energy.
 
-##	Rules & Iteractions
+##	Rules & Iterations
 -	Every step without weapons reduces 0.50% energy.
 -	Every step with weapons reduces 1% energy.
 -	Weapons load up reduce 2% energy.
