@@ -20,3 +20,6 @@ When the game starts the energy level of the vidya is 100% which reduce by its m
 -	Weapon pickup give points according to game level (In level one evergy weapon give 10 points).
 ##	Goal
 The main objective behind this game is that the students knows about their campus and enjoy campus life healthy. The vidya is the word driven from Sanskrit means knowledge and wisdom which is the real weapon of any student and the department is the point where to fulfill their knowledge drink. When students take admission journey starts from the admin office and ends at the auditorium with convocation. Mosque help to know himself/herself and save against all the evils of society and Canteen boost the energy level. I hope player enjoy the game.
+## Wireframe
+## Game Board 
+![-2](https://user-images.githubusercontent.com/96945594/172154958-128f714d-2686-46c1-97c6-5ba9e1d1b32e.JPG)
